@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+*.db
+.git
+.gitignore
+.vscode/
+.idea/
+app_backup.py
+app_backup_v3.py

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+
+# Database (local SQLite)
+tickets.db
+*.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archives
+*.rar
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db

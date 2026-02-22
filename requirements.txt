@@ -1,0 +1,16 @@
+# ── Streamlit (single-service deploy) ──
+streamlit
+streamlit-autorefresh
+plotly
+python-dotenv
+
+# ── AI / LLM ──
+langchain
+langchain-groq
+langchain-core
+groq
+pydantic
+
+# ── Database ──
+sqlalchemy
+psycopg2-binary
